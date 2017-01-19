@@ -1,0 +1,8 @@
+{
+    "name": "@types/intl-relativeformat",
+    "version": "1.0.0",
+    "author": "co.mmons",
+    "private": false,
+    "license": "MIT",
+    "types": "intl-relativeformat.d.ts"
+}
