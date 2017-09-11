@@ -1,6 +1,6 @@
 {
     "name": "@types/intl-relativeformat",
-    "version": "1.0.0.1",
+    "version": "1.0.0-types",
     "author": "co.mmons",
     "private": false,
     "license": "MIT",
